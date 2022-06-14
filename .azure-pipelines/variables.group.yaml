@@ -1,14 +1,14 @@
 variables:
 - name: SERVICECONNECTION
-  value: rg-dataplatform-dev
+  value: rg-mlops-project-dev
 - name: WORKSPACENAME
   value: mlw-trunkbased-dev
 - name: RESOURCEGROUPNAME
-  value: mlops-trunkbased-dev
+  value: rg-trunkbased-mlops
 - name: STORAGEACCOUNTNAME
-  value: aamldatalake
+  value: aouytrunkbasedstorage
 - name: LOCATION
-  value: eastus2
+  value: japaneast
 - name: KEYVAULTNAME
   value: kv-trunkbased-dev
 - name: env
